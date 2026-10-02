@@ -23,7 +23,7 @@ public class PersonCard {
         int modelYear  =2022;
         double price  = 185000;
         boolean isElectric = true;
-         //Fjärde uppgift
+        
         
 
 

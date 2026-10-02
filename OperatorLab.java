@@ -46,7 +46,7 @@ Vad kan % 2 användas till? % 2 kan användas för att avgöra om ett tal är j�
         allowed = hasTicket || isAdult;
         System.out.println(allowed);
 
-        //
+        
     
     }
 }
